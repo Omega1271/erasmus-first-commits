@@ -16,5 +16,10 @@ This is a simple exercise to practice making your first commit.
 |------|-------|
 | Tito Julio González Padial | titojuliogonzalez@gmail.com |
 
+## 🔗 Links
+
+- 📝 [Student survey](https://forms.gle/A26ANFmikpEdypmLA)
+- 💬 [Join our Discord](https://discord.gg/uWxRnwhJn)
+
 ---
 *Erasmus Programming Intensive 2026*
